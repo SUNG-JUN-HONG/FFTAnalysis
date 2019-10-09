@@ -1,0 +1,14 @@
+C:\Users\SUNGJUN HONG\source\repos\FFTAnalysis\FFTAnalysis\obj\Debug\FFTAnalysis.csprojAssemblyReference.cache
+C:\Users\SUNGJUN HONG\source\repos\FFTAnalysis\FFTAnalysis\obj\Debug\FFTAnalysis.Form1.resources
+C:\Users\SUNGJUN HONG\source\repos\FFTAnalysis\FFTAnalysis\obj\Debug\FFTAnalysis.Properties.Resources.resources
+C:\Users\SUNGJUN HONG\source\repos\FFTAnalysis\FFTAnalysis\obj\Debug\FFTAnalysis.csproj.GenerateResource.cache
+C:\Users\SUNGJUN HONG\source\repos\FFTAnalysis\FFTAnalysis\obj\Debug\FFTAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\SUNGJUN HONG\source\repos\FFTAnalysis\FFTAnalysis\bin\Debug\FFTAnalysis.exe.config
+C:\Users\SUNGJUN HONG\source\repos\FFTAnalysis\FFTAnalysis\bin\Debug\FFTAnalysis.exe
+C:\Users\SUNGJUN HONG\source\repos\FFTAnalysis\FFTAnalysis\bin\Debug\FFTAnalysis.pdb
+C:\Users\SUNGJUN HONG\source\repos\FFTAnalysis\FFTAnalysis\bin\Debug\MathNet.Numerics.dll
+C:\Users\SUNGJUN HONG\source\repos\FFTAnalysis\FFTAnalysis\bin\Debug\MathNet.Numerics.xml
+C:\Users\SUNGJUN HONG\source\repos\FFTAnalysis\FFTAnalysis\obj\Debug\FFTAnalysis.csproj.CopyComplete
+C:\Users\SUNGJUN HONG\source\repos\FFTAnalysis\FFTAnalysis\obj\Debug\FFTAnalysis.exe
+C:\Users\SUNGJUN HONG\source\repos\FFTAnalysis\FFTAnalysis\obj\Debug\FFTAnalysis.pdb
+C:\Users\SUNGJUN HONG\source\repos\FFTAnalysis\FFTAnalysis\bin\Debug\MaterialSkin.dll
