@@ -1,10 +1,10 @@
 # FFTAnalysis
-a simple fourier transform analysis tool to demonstrate the  fundamental concept 
+a simple fast fourier transform analysis tool to demonstrate the fundamental concept of FFT 
 
 <hr>
 <table  border = "1">
   <tr> <th> Screenshot </th> <th> Description </th> </tr>
-  <tr> <td align ="center"><img src='img/Demo.PNG' height ="80%">  </td> <td align ="center"> <b> FFT Analysis Tool </b>  </td> </tr>
+  <tr> <td align ="center"><img src='img/demo.PNG' height ="50%">  </td> <td align ="center"> <b> FFT Analysis Tool Demo </b>  </td> </tr>
 </table>
 <hr>
 
